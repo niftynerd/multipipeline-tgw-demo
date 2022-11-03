@@ -25,12 +25,6 @@ before deployment and updates can occur.
 
 [Pipeline Configuration](#pipeline-configuration)
 
-[Resource Definition](#resource-definition)
-
-[AWS Glue ETL Jobs](#aws-glue-etl-jobs)
-
-[AWS DMS Provisioning](#aws-dms-provisioning)
-
 [CDK Basics](#cdk-basics)
 
 <div class="page"/>
